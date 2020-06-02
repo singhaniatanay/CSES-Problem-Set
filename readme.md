@@ -3,8 +3,9 @@ The CSES Problem Set is a collection of competitive programming practice problem
 
 Below are my solutions according to the site : 
 ## Introductory Problems :
-[Increasing Array](./IncreasingArray.java)
-[Missing Number](./MissingNumber.java)
-[Number Spiral](./NumberSpiral.java)
-[Repetitions.java](./Repetitions.java)
-[Weird Algorithm](./Weird_Algorithm.java)
+
+ - [Increasing Array](./IncreasingArray.java) 
+ - [Missing Number](./MissingNumber.java) 
+ - [Number Spiral](./NumberSpiral.java)
+ - [Repetitions.java](./Repetitions.java)
+ - [Weird Algorithm](./Weird_Algorithm.java)
